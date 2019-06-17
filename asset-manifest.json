@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eventosreact/static/css/main.62cb1aec.chunk.css",
+    "main.js": "/eventosreact/static/js/main.b61cd7da.chunk.js",
+    "main.js.map": "/eventosreact/static/js/main.b61cd7da.chunk.js.map",
+    "runtime~main.js": "/eventosreact/static/js/runtime~main.8473e42b.js",
+    "runtime~main.js.map": "/eventosreact/static/js/runtime~main.8473e42b.js.map",
+    "static/js/2.a8c04701.chunk.js": "/eventosreact/static/js/2.a8c04701.chunk.js",
+    "static/js/2.a8c04701.chunk.js.map": "/eventosreact/static/js/2.a8c04701.chunk.js.map",
+    "index.html": "/eventosreact/index.html",
+    "precache-manifest.313e4729a9d68aa505aaf8c089a53450.js": "/eventosreact/precache-manifest.313e4729a9d68aa505aaf8c089a53450.js",
+    "service-worker.js": "/eventosreact/service-worker.js",
+    "static/css/main.62cb1aec.chunk.css.map": "/eventosreact/static/css/main.62cb1aec.chunk.css.map"
+  }
+}
